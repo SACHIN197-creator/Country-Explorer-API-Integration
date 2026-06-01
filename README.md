@@ -128,6 +128,6 @@ Sachin Kumar
 [LinkedIn Profile](https://www.linkedin.com/in/sachin-kumar-362b53343/)
 
 ### GitHub
-[GitHub](https://github.com/SACHIN197-creator)
+[GitHub Profile](https://github.com/SACHIN197-creator)
 
 ---

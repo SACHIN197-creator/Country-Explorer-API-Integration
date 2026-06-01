@@ -67,7 +67,7 @@ Data is fetched dynamically using the JavaScript Fetch API.
 
 ### Home Page
 
-![Home Page](images/home1.png)
+![Home Page](images/home.png)
 
 ### Home Page
 

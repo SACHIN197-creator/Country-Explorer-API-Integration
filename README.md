@@ -67,27 +67,11 @@ Data is fetched dynamically using the JavaScript Fetch API.
 
 ### Home Page
 
-```text
-Add Screenshot Here
-```
+![Home Page](images/home1.png)
 
-### Search Result
+### Home Page
 
-```text
-Add Screenshot Here
-```
-
-### Region Filter
-
-```text
-Add Screenshot Here
-```
-
-### Dark Theme
-
-```text
-Add Screenshot Here
-```
+![Home Page](images/home2.png)
 
 ---
 

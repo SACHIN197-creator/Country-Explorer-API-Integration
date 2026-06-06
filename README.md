@@ -115,7 +115,7 @@ This project helped me learn:
 * Responsive Web Design
 * Modern UI Design
 * Git & GitHub Workflow
-* GitHub Pages Deployment
+* Netlify Deployment
 
 ---
 

@@ -6,7 +6,7 @@ A modern and responsive Country Explorer web application built using **HTML5, CS
 
 ## 🚀 Live Demo
 
-🔗 https://6a238c18e482b8894108e2da--stellular-gaufre-480fd4.netlify.app/
+[Live link](https://6a239605c0e9cf99a4824e1e--stalwart-stardust-6eec0b.netlify.app/)
 
 ---
 
